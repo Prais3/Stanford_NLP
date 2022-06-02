@@ -7,3 +7,5 @@ Stanford School of Engineering
 Natural Language Processing using Deep Learning
 
 See assignments readme for more information on individual projects
+
+PENDING: ADD ASSIGNMENT 4 ASAP
